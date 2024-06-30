@@ -1,0 +1,40 @@
+1. Einführung in Java:
+   - JDK und IDE: Installation und Verwendung des Java Development Kit (JDK) und einer integrierten Entwicklungsumgebung (IDE) wie Eclipse oder IntelliJ IDEA.
+   - Hello World Programm: Schreiben und Ausführen eines einfachen Programms, um die Entwicklungsumgebung zu testen.
+
+2. Grundlegende Syntax und Struktur:
+   - Kommentare: Einzeilige (// Kommentar) und mehrzeilige Kommentare (/* Kommentar */).
+   - Datentypen und Variablen: Primitive Datentypen (int, double, char, boolean) und Deklaration/Initialisierung von Variablen.
+   - Operatoren: Arithmetische, logische, und Vergleichsoperatoren.
+
+3. Grundlegende Ein- und Ausgabe:
+   - Konsoleneingabe und -ausgabe: Verwendung von Scanner zum Einlesen von Benutzereingaben und System.out.println zur Ausgabe von Text.
+
+4. Kontrollstrukturen:
+   - Bedingungen: if, else if, else für Entscheidungsfindungen.
+   - Schleifen: for, while, do-while für wiederholte Ausführungen von Codeblöcken.
+   - Switch-Statement: Alternative zu mehreren if-else-Bedingungen.
+
+5. Bibliotheken und Pakete:
+   - Import von Bibliotheken: Nutzung von vorhandenen Java-Bibliotheken und Import von Paketen.
+   - Erstellen von Paketen: Strukturierung des eigenen Codes durch Pakete.
+
+6. Arrays und Sammlungen:
+   - Arrays: Deklaration, Initialisierung und Verwendung von eindimensionalen und mehrdimensionalen Arrays.
+   - ArrayList und andere Sammlungen: Einführung in die ArrayList und grundlegende Methoden wie add(), remove(), get().
+
+7. Fehlerbehandlung:
+   - Exceptions: Verwendung von try, catch, finally Blöcken zur Behandlung von Ausnahmen.
+   - Eigene Exceptions: Erstellung eigener Ausnahme-Klassen.
+
+8. Methoden:
+   - Deklaration und Aufruf: Erstellung von Methoden mit und ohne Rückgabewerte sowie Parameterübergabe.
+   - Methodenüberladung: Definieren mehrerer Methoden mit demselben Namen, aber unterschiedlichen Parameterlisten.
+
+
+9. Objektorientierte Programmierung (OOP):
+   - Klassen und Objekte: Erstellung und Verwendung von Klassen und Instanzvariablen.
+   - Konstruktoren: Definition und Verwendung von Konstruktoren zur Initialisierung von Objekten.
+   - Vererbung: Erstellen von Unterklassen und Vererbung von Eigenschaften und Methoden.
+   - Polymorphismus: Überladung und Überschreibung von Methoden.
+   - Abstrakte Klassen und Interfaces: Implementierung von abstrakten Klassen und Interfaces für eine flexiblere und erweiterbare Struktur.
